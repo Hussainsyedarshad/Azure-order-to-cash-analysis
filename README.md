@@ -164,22 +164,22 @@ Refer `/Screenshots` folder for:
 ## Pipeline Execution Proof
 
 ### Data Lake Storage
-![Blob](Screenshots/02_blob_storage_raw_files.png)
+![Blob](https://github.com/Hussainsyedarshad/Azure-order-to-cash-analysis/blob/main/01_solution_architecture.png)
 
 ### ETL Execution
-![ETL](Screenshots/03_etl_pipeline_execution.png)
+![ETL](https://github.com/Hussainsyedarshad/Azure-order-to-cash-analysis/blob/main/03_etl_pipeline_execution)
 
 ### SQL Tables Loaded
-![SQL](Screenshots/05_sql_tables_loaded.png)
+![SQL](https://github.com/Hussainsyedarshad/Azure-order-to-cash-analysis/blob/main/05_sql_tables_loaded.png)
 
 ### Star Schema Model
-![Model](Screenshots/08_powerbi_data_model.png)
+![Model](https://github.com/Hussainsyedarshad/Azure-order-to-cash-analysis/blob/main/08_powerbi_data_mode)
 
 
 ## Power BI Dashboard Preview
 
 ### Executive Overview
-![Dashboard](Screenshots/10_powerbi_dashboard.png)
+![Dashboard](https://github.com/Hussainsyedarshad/Azure-order-to-cash-analysis/blob/main/10_powerbi_dashboard.png)
 
 The dashboard provides management visibility into revenue realization, customer payment behavior, and operational efficiency across the Order-to-Cash cycle.
 
